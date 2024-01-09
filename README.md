@@ -1,6 +1,6 @@
 # detailsAccordions
 
-version: 1.0.0
+Version: 1.0.0
 
 A JavaScript function that applies smooth transition to &lt;details> elements
 
